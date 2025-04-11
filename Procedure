@@ -1,0 +1,29 @@
+Install Dependencies
+pip install gradio requests
+
+
+Set Up Your Hugging Face API Token
+Replace the placeholder token in headers = {"Authorization": "Bearer YOUR_TOKEN"} with your Hugging Face token.
+You can get your token from https://huggingface.co/settings/tokens.
+
+Run the App
+python app.py
+
+
+Access the Interface
+The app will automatically launch in your browser or give you a public shareable link.
+
+💡 Future Enhancements
+Allow user prompt customization
+Add more genres and tropes
+Support story saving to cloud (e.g., Google Drive)
+Text-to-speech integration for audio stories
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repo, submit issues, or open pull requests.
+
+📜 License
+This project is licensed under the MIT License.
+
+📬 Contact
+For feedback or collaboration opportunities, reach out via [renishselaxteena@karunya.edu.in].
