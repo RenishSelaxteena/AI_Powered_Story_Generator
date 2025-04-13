@@ -35,5 +35,4 @@ An interactive web application that generates short stories using the **Mistral-
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ai-story-generator.git
-   cd ai-story-generator
+   https://github.com/RenishSelaxteena/AI_Powered_Story_Generator 
